@@ -1,4 +1,4 @@
-# notes
+# 笔记（关于自己的一切笔记）
 这是一个自己写的学习笔记，如有错漏请谅解
 
 ## 游戏所用
@@ -11,10 +11,10 @@
 
 ##### 网站
 
-[【全网最详细Markdown入门使用教程】40分钟教会你用免费的vscode做出好看的笔记](https://www.bilibili.com/video/BV1bK4y1i7BY/?spm_id_from=333.337.search-card.all.click&vd_source=0f1f56a0ec1cf4d85df0ad3fabac75ff)
-
+[【全网最详细Markdown入门使用教程】40分钟教会你用免费的vscode做出好看的笔记](https://www.bilibili.com/video/BV1bK4y1i7BY/?spm_id_from=333.337.search-card.all.click&vd_source=0f1f56a0ec1cf4d85df0ad3fabac75ff)  
+[改变了世界的软件！程序员的基本功，Git 应该如何使用？](https://www.bilibili.com/video/BV1u94y1n73L/?spm_id_from=333.337.search-card.all.click&vd_source=0f1f56a0ec1cf4d85df0ad3fabac75ff)  
 ##### up主
-
+[玄离199](https://space.bilibili.com/67079745 "教人使用各种科技工具")
 
 ### 写md所用的语法
 
