@@ -1,13 +1,19 @@
 # notes
 这是一个自己写的学习笔记，如有错漏请谅解
 
+## 游戏所用
 
-
-
+## 学习所用
 
 ### 以下是给自己学习的方便跳转的网址
 
+#### b站（bilibili）
+
+##### 网站
+
 [【全网最详细Markdown入门使用教程】40分钟教会你用免费的vscode做出好看的笔记](https://www.bilibili.com/video/BV1bK4y1i7BY/?spm_id_from=333.337.search-card.all.click&vd_source=0f1f56a0ec1cf4d85df0ad3fabac75ff)
+
+##### up主
 
 
 ### 写md所用的语法
