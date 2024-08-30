@@ -1,8 +1,15 @@
 # notes
 给自己的笔记添加关联与描写
 
+
+
+### 以下是给自己学习的方便跳转的网址
+
+[【全网最详细Markdown入门使用教程】40分钟教会你用免费的vscode做出好看的笔记](https://www.bilibili.com/video/BV1bK4y1i7BY/?spm_id_from=333.337.search-card.all.click&vd_source=0f1f56a0ec1cf4d85df0ad3fabac75ff)
+
+
 <!-- 
-这是添加的注释
+这是方便添加的注释
 
 [链接文本](网址 "可选的标题")
 [访问Moonshot AI](https://moonshot.cn "Moonshot AI 官网")
@@ -10,8 +17,10 @@
 # 这是一级标题
 ## 这是二级标题
 
-- 列表项1
-- 列表项2
+- 项目1
+- 项目2
+  - 子项目2.1
+- 项目3
 
 `这是行内代码`
 
@@ -21,9 +30,17 @@
 |-------|-------|
 | 单元格1 | 单元格2 |
 
+段落之间用一个空行分隔。换行可以用两个空格加回车，或者使用HTML的<br>标签。
+
+- [ ] 未完成的任务
+- [x] 已完成的任务
+
+*这段文本会显示为斜体*
+_这段文本也会显示为斜体_
+
+**这段文本会显示为粗体**
+__这段文本也会显示为粗体__
+
+\*这不是斜体\*
 
 -->
-
-### 以下是给自己学习的方便跳转的网址
-
-[【全网最详细Markdown入门使用教程】40分钟教会你用免费的vscode做出好看的笔记](https://www.bilibili.com/video/BV1bK4y1i7BY/?spm_id_from=333.337.search-card.all.click&vd_source=0f1f56a0ec1cf4d85df0ad3fabac75ff)
